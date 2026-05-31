@@ -126,8 +126,3 @@ pip install gradio
 - Real-time interview scoring
 - Web application deployment
 
----
-
-## Author
-
-Niranjan Bhojane
